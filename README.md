@@ -66,4 +66,8 @@ Logistic Regression Confusion Matrix.
 
 Logistic Regression ROC curve
 
+![image](https://github.com/Eugene-Asengi/Phase-3-Project/blob/968df52a78c88d44750d7b0d5f2ce6e17a3612f4/Logistic%20regression%20ROC%20curve.png)
+
+Decision Tree Classifier.
+
 ![image]()
