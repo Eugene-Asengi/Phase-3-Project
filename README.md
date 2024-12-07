@@ -71,3 +71,7 @@ Logistic Regression ROC curve
 Decision Tree Classifier.
 
 ![image](https://github.com/Eugene-Asengi/Phase-3-Project/blob/f14dfa12abb3d2428abb73587816e20a79b5b207/Decision%20Tree%20Classifier.png)
+
+Decision Tree ROC Curve.
+
+![image](https://github.com/Eugene-Asengi/Phase-3-Project/blob/8eb37eba566c126fe9b08966e49355f16ec0d251/Decision%20Tree%20ROC%20curve.png)
