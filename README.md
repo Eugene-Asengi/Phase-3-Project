@@ -75,3 +75,13 @@ Decision Tree Classifier.
 Decision Tree ROC Curve.
 
 ![image](https://github.com/Eugene-Asengi/Phase-3-Project/blob/8eb37eba566c126fe9b08966e49355f16ec0d251/Decision%20Tree%20ROC%20curve.png)
+
+The ROC curves for Logistic regression and Decision Tree were analyzed. The Decision Tree model outperformed the Logistic regression model in terms of AUC-ROC score, making it the most effective model for the given task.
+Based on the provided metrics, the Decision Trees Classifier achieved the highest accuracy of 92% and F1 score of 95%. The Logistic regression model achieved an accuracy of 86% and F1 score of 92%. 
+
+## Conclusion and Recommendations.
+In conclusion, the analysis suggests that we can accurately predict customer churn using a machine learning model, with the Decision Tree classifier being the best-recommended model due to its strong overall performance.
+
+1. I would recommend that Syriatel makes use of the Decision Tree classifier as the primary model for predicting customer churn. This model has been shown to be the most accurate in predicting churn, with an accuracy of 92%. The model has a higher ROC curve and strong overall performance in terms of accuracy.
+2. I would recommend that Syriatel comes up with strategies to reduce customer service calls. This increases the number of customers who are likely to churn. This can be done by identifying the most important features.
+Therefore, the Decision Trees Classifier is the best model for this task.
