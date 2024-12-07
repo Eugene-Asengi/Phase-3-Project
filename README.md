@@ -58,4 +58,6 @@ The first logistic regression model was built by default parameters. The model a
 Baseline Model
 The baseline model used the default parameters to train and test the model. The model has an accuracy of 92%, precision of 72%, recall of 75% and F1 score of 73%
 
-![image]()
+## Visualizations.
+
+![image](https://github.com/Eugene-Asengi/Phase-3-Project/blob/ab956256e566f2a9cd8f040af6edcba1e1c4d926/Logistic%20regression%20confusion%20matrix.png)
