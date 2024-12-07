@@ -1,4 +1,4 @@
-Reducing Customer Churn: Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
+## Reducing Customer Churn: Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
 
 INTRODUCTION.
 
