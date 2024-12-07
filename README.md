@@ -60,4 +60,10 @@ The baseline model used the default parameters to train and test the model. The 
 
 ## Visualizations.
 
+Logistic Regression Confusion Matrix.
+
 ![image](https://github.com/Eugene-Asengi/Phase-3-Project/blob/ab956256e566f2a9cd8f040af6edcba1e1c4d926/Logistic%20regression%20confusion%20matrix.png)
+
+Logistic Regression ROC curve
+
+![image]()
