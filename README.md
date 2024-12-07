@@ -57,3 +57,5 @@ The first logistic regression model was built by default parameters. The model a
 ## Model 2: Decision Tree Classifier.
 Baseline Model
 The baseline model used the default parameters to train and test the model. The model has an accuracy of 92%, precision of 72%, recall of 75% and F1 score of 73%
+
+![image]()
